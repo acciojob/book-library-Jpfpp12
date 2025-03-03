@@ -13,6 +13,7 @@ img{
 	background-color:#ffffff;
 	align-items:center;
 	font-family:"arial","sans-serif";
+	margin:10px;
 	
 }
 .book{
@@ -30,6 +31,7 @@ img{
 	background-color:#2ecc71;
 	text-align:center;
 	color:white;
-	padding:5px;
+	padding:10px;
 	border-radius:5px
+}
 }
